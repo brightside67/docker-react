@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dont Learn React!!!
+          Its comes from another branch!!!
         </a>
       </header>
     </div>
