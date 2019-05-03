@@ -4,6 +4,3 @@ services:
 
 before_install:
   - docker build -t brightside67/docker-react -f Dockerfile.dev .
-
-script:
-  - docker run brightside67/docker-react npm run test --forceExit --maxWorkers=10
